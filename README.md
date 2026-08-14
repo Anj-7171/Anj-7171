@@ -64,8 +64,7 @@ Research project exploring explainability for autonomous driving perception mode
 ## 🎓 Education
 
 **VIT Vellore**  
-B.Tech in Computer Science and Engineering  
-**CGPA: 8.70**
+B.Tech in Computer Science and Engineering 
 
 ---
 
