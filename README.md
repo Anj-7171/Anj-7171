@@ -8,7 +8,7 @@ Currently exploring how to turn research ideas into reliable, practical systems.
 
 ---
 
-## 🔬 Experience
+## Experience
 
 ### AI/ML Research Intern — IIT Roorkee
 - Developed and benchmarked **SRCNN, SRGAN, and ESRGAN** for 4× image super-resolution using PyTorch.
@@ -22,7 +22,7 @@ Currently exploring how to turn research ideas into reliable, practical systems.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### DeadlineSense
 **Automated Email Event Detection**
@@ -45,7 +45,7 @@ Research project exploring explainability for autonomous driving perception mode
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 **Languages:** Python · Java · C++ · SQL
 
@@ -61,7 +61,7 @@ Research project exploring explainability for autonomous driving perception mode
 
 ---
 
-## 🎓 Education
+## Education
 
 **VIT Vellore**  
 B.Tech in Computer Science and Engineering 
